@@ -21,7 +21,7 @@
 5. Set top-level entity to `tb_top`.
 6. Run.
 
-Do not separately compile `uvm_pkg.sv` when using the simulator's built-in UVM library.
+
 
 ## Verification included
 - Directed fill of all 16 words.
